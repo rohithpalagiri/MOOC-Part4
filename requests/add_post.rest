@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+
+{
+    "title": "About asyncawait",
+    "author": "RohithPal",
+    "url": "http://rohith.io",
+    "likes": 50,
+    "userId": "5efe02178659c534f08d551b"
+}
